@@ -4,9 +4,8 @@
 
 ![image](https://user-images.githubusercontent.com/50736666/119653428-e5b2d000-be59-11eb-98d6-8a3e0e13db34.png)
 
-2.1 Dynamic method part
-2.1.1. 
-Constructor
+## 2.1 Dynamic method part
+#### 2.1.1. Constructor
 The constructor of the string class uses a pointer to point to a certain memory address. When the initialization string does not exist, apply for a space. When the initialization string exists, apply for a space of the same size to store the string.
 Format：public string (const char * str = null)
 2.1.2. 
